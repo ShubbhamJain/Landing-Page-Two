@@ -1,0 +1,21 @@
+body{
+	background: url(coffee.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.hero{
+	color: #4d2600;
+	margin-top: 10%;
+	text-align: center;
+	font-size: 75px;
+	font-family: 'Inconsolata', monospace;
+	letter-spacing: -.07em;
+	line-height: .8em;
+	text-transform: capitalize;	
+}
+
+.image{
+	margin-top: 2%;
+	height: 250px;
+	width: 400px;
+}
